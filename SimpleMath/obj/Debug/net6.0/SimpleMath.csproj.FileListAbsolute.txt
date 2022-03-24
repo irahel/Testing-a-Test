@@ -1,0 +1,12 @@
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/bin/Debug/net6.0/SimpleMath.deps.json
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/bin/Debug/net6.0/SimpleMath.dll
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.csproj.AssemblyReference.cache
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.AssemblyInfoInputs.cache
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.AssemblyInfo.cs
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.csproj.CoreCompileInputs.cache
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.dll
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/refint/SimpleMath.dll
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/SimpleMath.pdb
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/bin/Debug/net6.0/SimpleMath.pdb
+/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/Debug/net6.0/ref/SimpleMath.dll
