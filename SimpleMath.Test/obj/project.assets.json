@@ -6123,11 +6123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rahelund/C#/Fluent Assertions/SimpleMathTest/SimpleMathTest.csproj",
+      "projectUniqueName": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath.Test/SimpleMathTest.csproj",
       "projectName": "SimpleMathTest",
-      "projectPath": "/Users/rahelund/C#/Fluent Assertions/SimpleMathTest/SimpleMathTest.csproj",
+      "projectPath": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath.Test/SimpleMathTest.csproj",
       "packagesPath": "/Users/rahelund/.nuget/packages/",
-      "outputPath": "/Users/rahelund/C#/Fluent Assertions/SimpleMathTest/obj/",
+      "outputPath": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rahelund/.nuget/NuGet/NuGet.Config"
@@ -6142,8 +6142,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj": {
-              "projectPath": "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj"
+            "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj": {
+              "projectPath": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj"
             }
           }
         }

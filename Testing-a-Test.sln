@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMath", "SimpleMath\SimpleMath.csproj", "{6CFC541D-B974-49C1-9EA9-5F77FDD851AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMathTest", "SimpleMathTest\SimpleMathTest.csproj", "{D945297F-1EFA-4F15-9327-BF8C8A1A1BA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMathTest", "SimpleMath.Test\SimpleMathTest.csproj", "{D945297F-1EFA-4F15-9327-BF8C8A1A1BA7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestTheTest", "TestTheTest", "{FF36585C-AE30-44D7-96DF-E0B6444E5237}"
 EndProject

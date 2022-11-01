@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj": {}
+    "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj": {}
   },
   "projects": {
-    "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj": {
+    "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj",
+        "projectUniqueName": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj",
         "projectName": "SimpleMath",
-        "projectPath": "/Users/rahelund/C#/Fluent Assertions/SimpleMath/SimpleMath.csproj",
+        "projectPath": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/SimpleMath.csproj",
         "packagesPath": "/Users/rahelund/.nuget/packages/",
-        "outputPath": "/Users/rahelund/C#/Fluent Assertions/SimpleMath/obj/",
+        "outputPath": "/Users/rahelund/C#/test a test/Testing-a-Test/SimpleMath/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rahelund/.nuget/NuGet/NuGet.Config"
